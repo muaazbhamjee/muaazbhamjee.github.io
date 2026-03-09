@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muaazbhamjee.github.io/sitemap.xml
